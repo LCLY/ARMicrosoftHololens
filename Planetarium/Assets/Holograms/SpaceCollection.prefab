@@ -3,12 +3,12 @@
 --- !u!1 &105440
 GameObject:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 6
   m_Component:
-  - 4: {fileID: 446484}
-  - 114: {fileID: 11442960}
+  - component: {fileID: 446484}
+  - component: {fileID: 11442960}
   m_Layer: 0
   m_Name: SpaceCollection
   m_TagString: Untagged
@@ -19,7 +19,7 @@ GameObject:
 --- !u!4 &446484
 Transform:
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 105440}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -32,7 +32,7 @@ Transform:
 --- !u!114 &11442960
 MonoBehaviour:
   m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 105440}
   m_Enabled: 1
@@ -41,8 +41,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceObjectPrefabs:
-  - {fileID: 198308, guid: f995e12b8f20f1f4392760587a83a926, type: 2}
   - {fileID: 153042, guid: d6600ef2cde92244ca31967068aef193, type: 2}
+  - {fileID: 198308, guid: f995e12b8f20f1f4392760587a83a926, type: 2}
   - {fileID: 111532, guid: d8b2d9075f1e53540a54dd1a03f012d3, type: 2}
 --- !u!1001 &100100000
 Prefab:
@@ -56,6 +56,6 @@ Prefab:
       value: 
       objectReference: {fileID: 198308, guid: f995e12b8f20f1f4392760587a83a926, type: 2}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 0}
+  m_SourcePrefab: {fileID: 0}
   m_RootGameObject: {fileID: 105440}
-  m_IsPrefabParent: 1
+  m_IsPrefabAsset: 1
