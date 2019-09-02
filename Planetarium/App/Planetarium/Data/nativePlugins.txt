@@ -1,2 +1,0 @@
-HolographicStreamerDesktop.dll
-PlaneFinding.dll
