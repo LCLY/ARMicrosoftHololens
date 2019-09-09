@@ -6,10 +6,12 @@ const Content = () => (
     <div>
         <Menu fixed="top" inverted>
             <Container>
-                <Menu.Item as="a" header>
-                    Cracks Detection
+                <Menu.Item as="a" href="#" header>
+                    AR Cracks Detection
                 </Menu.Item>
-                <Menu.Item as="a">Home</Menu.Item>
+                <Menu.Item as="a" href="#">
+                    Home
+                </Menu.Item>
 
                 <Dropdown item simple text="Dropdown">
                     <Dropdown.Menu>
