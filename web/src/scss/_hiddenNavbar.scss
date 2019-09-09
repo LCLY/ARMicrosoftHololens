@@ -1,0 +1,34 @@
+.hidden--outerContainer {
+    position: fixed;
+    background-color: black;
+    width: 100vw;
+}
+
+.hidden__top {
+    display: flex;
+}
+
+.hidden__home {
+    justify-content: flex-start;
+    margin-right: auto;
+    color: white;
+}
+
+.hidden__icon__div {
+    justify-content: flex-end;
+    margin-left: auto;
+    padding: 1rem 1rem 1rem 0;
+}
+.hidden__icon {
+    font-size: 1.5rem;
+    z-index: 100;
+    color: white;
+}
+
+.hidden__items {
+    color: rgb(168, 167, 167);
+    &:active {
+        background-color: grey;
+        color: black;
+    }
+}

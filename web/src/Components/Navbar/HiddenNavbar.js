@@ -1,28 +1,59 @@
 import React from "react";
-
 import { Container, Menu } from "semantic-ui-react";
+
 class HiddenNavbar extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            show: false,
+            iconName: "fa-bars",
+        };
+    }
+
+    handleClick = () => {
+        //if show, then the icon is times
+        if (this.state.show === false) {
+            console.log("COME IN");
+            this.setState({ iconName: "fa-times", show: true });
+        } else {
+            console.log("COME OUT");
+            this.setState({ iconName: "fa-bars", show: false });
+        }
+    };
+
     render() {
         return (
-            <Menu fixed="top" inverted className="navbar--hidden">
-                <Container>
-                    <Menu.Item as="a" href="#" header>
-                        AR Cracks Detection
-                    </Menu.Item>
-                    <Menu.Item as="a" href="#">
-                        Home
-                    </Menu.Item>
-                    <Menu.Item as="a" href="#demoVideo">
-                        Demo
-                    </Menu.Item>
-                    <Menu.Item as="a" href="#documentDiv">
-                        Documentation
-                    </Menu.Item>
-                    <Menu.Item as="a" href="#footerDiv">
-                        Other links
-                    </Menu.Item>
-                </Container>
-            </Menu>
+            <div className="navbar--hidden">
+                <Menu fixed="top" inverted>
+                    <Container>
+                        <div className="hidden--outerContainer">
+                            <div className="hidden__top">
+                                <div className="hidden__home" href="#">
+                                    AR Cracks detection
+                                </div>
+                                <div className="hidden__icon__div">
+                                    <i
+                                        className={`fas ${this.state.iconName} hidden__icon`}
+                                        onClick={this.handleClick}
+                                    />
+                                </div>
+                            </div>
+                            <div className="hidden__items">
+                                <a href="#"> Home</a>
+                            </div>
+                            <div className="hidden__items">
+                                <a href="#demoVideo">Demo</a>
+                            </div>
+                            <div className="hidden__items">
+                                <a href="#documentDiv"> Documentation</a>
+                            </div>
+                            <div className="hidden__items">
+                                <a href="#footerDiv"> Other links</a>
+                            </div>
+                        </div>
+                    </Container>
+                </Menu>
+            </div>
         );
     }
 }
