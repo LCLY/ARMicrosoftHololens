@@ -39,16 +39,24 @@ class HiddenNavbar extends React.Component {
                                 </div>
                             </div>
                             <div className="hidden__items">
-                                <a href="#"> Home</a>
+                                <a className="hidden__text" href="#">
+                                    Home
+                                </a>
                             </div>
                             <div className="hidden__items">
-                                <a href="#demoVideo">Demo</a>
+                                <a className="hidden__text" href="#demoVideo">
+                                    Demo
+                                </a>
                             </div>
                             <div className="hidden__items">
-                                <a href="#documentDiv"> Documentation</a>
+                                <a className="hidden__text" href="#documentDiv">
+                                    Documentation
+                                </a>
                             </div>
                             <div className="hidden__items">
-                                <a href="#footerDiv"> Other links</a>
+                                <a className="hidden__text" href="#footerDiv">
+                                    Other links
+                                </a>
                             </div>
                         </div>
                     </Container>
