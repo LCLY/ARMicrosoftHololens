@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/ARHololens/static/css/main.2cce8147.chunk.css",
-    "main.js": "/ARHololens/static/js/main.447383a3.chunk.js",
-    "main.js.map": "/ARHololens/static/js/main.447383a3.chunk.js.map",
+    "main.css": "/ARHololens/static/css/main.9323c0e1.chunk.css",
+    "main.js": "/ARHololens/static/js/main.0743654a.chunk.js",
+    "main.js.map": "/ARHololens/static/js/main.0743654a.chunk.js.map",
     "runtime~main.js": "/ARHololens/static/js/runtime~main.a84e7ed7.js",
     "runtime~main.js.map": "/ARHololens/static/js/runtime~main.a84e7ed7.js.map",
-    "static/js/2.79819f37.chunk.js": "/ARHololens/static/js/2.79819f37.chunk.js",
-    "static/js/2.79819f37.chunk.js.map": "/ARHololens/static/js/2.79819f37.chunk.js.map",
+    "static/js/2.b3f9db4a.chunk.js": "/ARHololens/static/js/2.b3f9db4a.chunk.js",
+    "static/js/2.b3f9db4a.chunk.js.map": "/ARHololens/static/js/2.b3f9db4a.chunk.js.map",
     "index.html": "/ARHololens/index.html",
-    "precache-manifest.e5a0a632ae92cabc2e562d216d580a70.js": "/ARHololens/precache-manifest.e5a0a632ae92cabc2e562d216d580a70.js",
+    "precache-manifest.64fe075e7e4cb2dea774bbcb59f451ed.js": "/ARHololens/precache-manifest.64fe075e7e4cb2dea774bbcb59f451ed.js",
     "service-worker.js": "/ARHololens/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/ARHololens/static/css/main.2cce8147.chunk.css.map"
+    "static/css/main.9323c0e1.chunk.css.map": "/ARHololens/static/css/main.9323c0e1.chunk.css.map",
+    "static/media/WallCracksAR.pdf": "/ARHololens/static/media/WallCracksAR.33757455.pdf",
+    "static/media/demo.mp4": "/ARHololens/static/media/demo.f8047f92.mp4"
   }
 }

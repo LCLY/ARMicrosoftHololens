@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ARHololens/precache-manifest.e5a0a632ae92cabc2e562d216d580a70.js"
+  "/ARHololens/precache-manifest.64fe075e7e4cb2dea774bbcb59f451ed.js"
 );
 
 self.addEventListener('message', (event) => {
