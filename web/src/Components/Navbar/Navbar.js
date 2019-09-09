@@ -6,7 +6,7 @@ const Navbar = () => {
             <Menu fixed="top" inverted>
                 <Container>
                     <Menu.Item as="a" href="#" header>
-                        AR Cracks Detection
+                        MR Cracks Detection
                     </Menu.Item>
                     <Menu.Item as="a" href="#">
                         Home

@@ -2,7 +2,7 @@
     "name": "web",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://lcly.github.io/ARHololens",
+    "homepage": "https://lcly.github.io/MRHololens",
     "dependencies": {
         "gh-pages": "^2.1.1",
         "react": "^16.9.0",

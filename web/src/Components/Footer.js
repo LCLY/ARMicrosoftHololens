@@ -35,7 +35,7 @@ const Footer = () => {
                                 href="http://papers.cumincad.org/data/works/att/caadria2014_161.content.pdf"
                                 target="_blank"
                             >
-                                Immersive Virtual Environments: Experiemtns on
+                                Immersive Virtual Environments: Experiments on
                                 impacting design and human building interaction
                             </List.Item>
 

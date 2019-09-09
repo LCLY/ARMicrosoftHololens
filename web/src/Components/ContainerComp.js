@@ -37,8 +37,8 @@ const ContainerComp = () => {
                 <p>
                     After reviewing research papers published by other
                     researchers, we decided on creating an application that
-                    utilizes Microsoft Hololens and Augmented Reality to detect
-                    wall cracks.
+                    utilizes Microsoft Hololens Mixed Reality to detect wall
+                    cracks.
                 </p>
                 <h3>Why I joined the team?</h3>
                 <p>
