@@ -53,7 +53,7 @@ const ContainerComp = () => {
                 software team and we are responsible for creating the
                 application.
             </p>
-            <h3>How it works</h3>
+            <h3 id="demoVideo">How it works</h3>
             <p>
                 The way we envision how the final product should work is the
                 building inspector or engineer uses the headwear (
@@ -88,7 +88,7 @@ const ContainerComp = () => {
                 Custom Vision service, a reply will return from the Service and
                 it will be displayed in the world-space through the device.
             </p>
-            <h3>Documentations</h3>
+            <h3 id="documentDiv">Documentations</h3>
             <p>
                 Weekly documentations to keep track of progress and to act as a
                 reference/reminder for future self or other students.

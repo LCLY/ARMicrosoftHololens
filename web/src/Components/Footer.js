@@ -15,6 +15,7 @@ const Footer = () => {
             inverted
             vertical
             style={{ margin: "5em 0em 0em", padding: "5em 0em" }}
+            id="footerDiv"
         >
             <Container textAlign="center">
                 <Grid divided inverted stackable>
