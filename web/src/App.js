@@ -1,8 +1,11 @@
 import React from "react";
-import "./App.css";
-
-function App() {
-    return <div className="App">test</div>;
-}
+import Content from "./Components/Content";
+const App = () => {
+    return (
+        <div className="App">
+            <Content></Content>
+        </div>
+    );
+};
 
 export default App;
