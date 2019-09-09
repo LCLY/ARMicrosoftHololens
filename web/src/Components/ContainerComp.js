@@ -57,8 +57,8 @@ const ContainerComp = () => {
                 </p>
                 <h3 id="demoVideo">How it works</h3>
                 <p>
-                    The way we envision how the final product should work is the
-                    building inspector or engineer uses the headwear (
+                    The way we envisioned how the final product should look like
+                    is a building inspector or engineer puts on the device (
                     <a
                         href="https://www.microsoft.com/en-us/hololens"
                         target="_blank"
@@ -67,9 +67,9 @@ const ContainerComp = () => {
                             <i>Microsoft Hololens</i>
                         </b>
                     </a>
-                    ) to scan the interior of the buildings. If there is any new
+                    ) to scan the interiors of a building. If there were any new
                     crack on the wall, the application should be able to detect
-                    and label them with important relevant information.
+                    and label the cracks with important relevant information.
                 </p>
                 <h4>Demo:</h4>
                 <video width="100%" height="100%" controls>
@@ -109,6 +109,12 @@ const ContainerComp = () => {
                     as location, date or history, severity, future predictions
                     of the cracks and perhaps a display of the buildings BIM
                     model behind the wall cracks.
+                    <br /> <br />
+                    Being able to obtain all these important data with just a
+                    glance would improve the efficiency with inspections and
+                    maintenance. For example, the inspector will know the
+                    severity of the wall cracks he is looking at and he can
+                    decide the priority of fixing it.
                 </p>
             </Container>
         </div>
