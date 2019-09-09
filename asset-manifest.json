@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ARHololens/static/css/main.9323c0e1.chunk.css",
-    "main.js": "/ARHololens/static/js/main.20fc56d5.chunk.js",
-    "main.js.map": "/ARHololens/static/js/main.20fc56d5.chunk.js.map",
-    "runtime~main.js": "/ARHololens/static/js/runtime~main.a84e7ed7.js",
-    "runtime~main.js.map": "/ARHololens/static/js/runtime~main.a84e7ed7.js.map",
-    "static/js/2.b3f9db4a.chunk.js": "/ARHololens/static/js/2.b3f9db4a.chunk.js",
-    "static/js/2.b3f9db4a.chunk.js.map": "/ARHololens/static/js/2.b3f9db4a.chunk.js.map",
-    "index.html": "/ARHololens/index.html",
-    "precache-manifest.8caa89f2f415be4300bc40060df788d0.js": "/ARHololens/precache-manifest.8caa89f2f415be4300bc40060df788d0.js",
-    "service-worker.js": "/ARHololens/service-worker.js",
-    "static/css/main.9323c0e1.chunk.css.map": "/ARHololens/static/css/main.9323c0e1.chunk.css.map",
-    "static/media/WallCracksAR.pdf": "/ARHololens/static/media/WallCracksAR.33757455.pdf",
-    "static/media/demo.mp4": "/ARHololens/static/media/demo.f8047f92.mp4"
+    "main.css": "/MRHololens/static/css/main.9323c0e1.chunk.css",
+    "main.js": "/MRHololens/static/js/main.9649bad1.chunk.js",
+    "main.js.map": "/MRHololens/static/js/main.9649bad1.chunk.js.map",
+    "runtime~main.js": "/MRHololens/static/js/runtime~main.05de2223.js",
+    "runtime~main.js.map": "/MRHololens/static/js/runtime~main.05de2223.js.map",
+    "static/js/2.b3f9db4a.chunk.js": "/MRHololens/static/js/2.b3f9db4a.chunk.js",
+    "static/js/2.b3f9db4a.chunk.js.map": "/MRHololens/static/js/2.b3f9db4a.chunk.js.map",
+    "index.html": "/MRHololens/index.html",
+    "precache-manifest.236308330e7faaf4fe733bd8db2b8341.js": "/MRHololens/precache-manifest.236308330e7faaf4fe733bd8db2b8341.js",
+    "service-worker.js": "/MRHololens/service-worker.js",
+    "static/css/main.9323c0e1.chunk.css.map": "/MRHololens/static/css/main.9323c0e1.chunk.css.map",
+    "static/media/WallCracksAR.pdf": "/MRHololens/static/media/WallCracksAR.33757455.pdf",
+    "static/media/demo.mp4": "/MRHololens/static/media/demo.f8047f92.mp4"
   }
 }
