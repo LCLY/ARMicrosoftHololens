@@ -59,11 +59,7 @@ const Footer = () => {
                         </List>
                     </Grid.Column>
                     <Grid.Column width={6} style={{ textAlign: "left" }}>
-                        <div
-                            style={{
-                                margin: "calc(2rem - .14285714em) 0 1rem",
-                            }}
-                        ></div>
+                        <Header inverted as="h4" content="Others" />
                         <List link inverted>
                             <List.Item
                                 as="a"
