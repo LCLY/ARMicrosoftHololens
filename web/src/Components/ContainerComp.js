@@ -12,7 +12,22 @@ const ContainerComp = () => {
                     target="_blank"
                     href="https://scholar.google.com/citations?user=rDHdOQIAAAAJ&hl=en"
                 >
-                    &nbsp;<b>Dr.Mohammad R. Jahanshahi</b>&nbsp;
+                    &nbsp;
+                    <b>
+                        <i>Dr.Mohammad R. Jahanshahi</i>
+                    </b>
+                    &nbsp;
+                </a>
+                and
+                <a
+                    href="https://www.researchgate.net/profile/Tarutal_Ghosh_Mondal2"
+                    target="blank"
+                >
+                    &nbsp;
+                    <b>
+                        <i>Tarutal Ghosh Mondal</i>
+                    </b>
+                    &nbsp;
                 </a>
                 from Purdue University.
             </p>
