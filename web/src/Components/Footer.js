@@ -118,7 +118,10 @@ const Footer = () => {
 
                 <Divider inverted section />
                 <div>
-                    <a href="https://github.com/LCLY" className="inherit__link">
+                    <a
+                        href="https://github.com/LCLY/MRHololens"
+                        className="inherit__link"
+                    >
                         <i className="fab fa-github footer__icon" />
                     </a>
                     <a
