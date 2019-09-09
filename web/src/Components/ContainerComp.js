@@ -40,7 +40,7 @@ const ContainerComp = () => {
                     utilizes Microsoft Hololens and Augmented Reality to detect
                     wall cracks.
                 </p>
-                <h3>Why I join the team?</h3>
+                <h3>Why I joined the team?</h3>
                 <p>
                     I decided to join the
                     <a
