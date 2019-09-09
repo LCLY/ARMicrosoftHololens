@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MRHololens/precache-manifest.36bd8e4783652f55f99e94b4adcb8e5e.js"
+  "/MRHololens/precache-manifest.4fe185dffe7ce66096991f62a509d7d3.js"
 );
 
 self.addEventListener('message', (event) => {

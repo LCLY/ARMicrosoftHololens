@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4c8a819c0b0c3e38ecebf69785c8f90",
+    "revision": "fae02b7b84956a29034ec6e8d523676b",
     "url": "/MRHololens/index.html"
   },
   {
-    "revision": "39ca7b6122a4721ca324",
+    "revision": "e7f054dd82d2760e6f23",
     "url": "/MRHololens/static/css/main.9323c0e1.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MRHololens/static/js/2.b3f9db4a.chunk.js"
   },
   {
-    "revision": "39ca7b6122a4721ca324",
-    "url": "/MRHololens/static/js/main.2524b6fc.chunk.js"
+    "revision": "e7f054dd82d2760e6f23",
+    "url": "/MRHololens/static/js/main.e985f9f6.chunk.js"
   },
   {
     "revision": "522228881eda20ed257b",
